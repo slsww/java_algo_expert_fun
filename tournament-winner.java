@@ -31,3 +31,4 @@ class Program {
 		return currentWinner;
   }
 }
+//how to seperately update the values of different keys in a hashmap? here you go.
